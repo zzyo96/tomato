@@ -7,4 +7,4 @@
 
 
 - 扫一扫  或微信搜索：番茄闹钟zzyo
-![Image text](https://github.com/zzyo96/tomato/blob/master/1.png)
+- ![Image text](https://github.com/zzyo96/tomato/blob/master/1.png)
